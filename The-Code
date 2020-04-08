@@ -5,5 +5,7 @@ window = tk.Tk()
 greeting = tk.Label(text='hey, wazup')
 greeting.pack()
 
+label = tk.Label(text = "The app", foreground ='white', background = 'black')
+label.pack()
 
 window.mainloop()
