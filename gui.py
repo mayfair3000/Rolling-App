@@ -25,3 +25,5 @@ name = entry.get()
 #entry.delete(0, tk.END)
 
 window.mainloop()
+
+#yeah
